@@ -8,8 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Behind the data is a story. I want to tell that story. I'm a data loving analytical thinker who is interested and experienced in data acquisition and analysis. Let me tell you the story.
+
+"You can have data without information, but you cannot have information without data." Data = Understanding.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tom@tomkeith.ca](mailto:tom@tomkeith.ca)
